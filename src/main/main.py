@@ -3,6 +3,6 @@ import sys
 
 
 def main():
-    value = sys.argv[1]
+    value = int(sys.argv[1])
     result = tan_func.tan_fun(value)
     print(result)
