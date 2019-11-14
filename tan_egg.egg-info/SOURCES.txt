@@ -1,0 +1,6 @@
+__main__.py
+setup.py
+tan_egg.egg-info/PKG-INFO
+tan_egg.egg-info/SOURCES.txt
+tan_egg.egg-info/dependency_links.txt
+tan_egg.egg-info/top_level.txt
